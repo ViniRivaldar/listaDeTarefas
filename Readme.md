@@ -1,12 +1,21 @@
-## Chores
+## Chores Project
 # 3️⃣ what's in this first project of mine
 
-**HTML, CSS, JS**
+# Overview
 
-Here there is DOM manipulation, and data maintenance, when you insert data it will be modified, depending on the day you access it.
+Welcome to the Chores project! This is my first project where I've implemented HTML, CSS, and JavaScript to create a web application that involves DOM manipulation.
+
+## Features
+
+DOM Manipulation: The project incorporates the manipulation of the Document Object Model (DOM) to enhance user interaction and dynamically update content.
+
 
 ## Goal:
 
-Here my goal is to show what I've been learning so far and what I've managed to do!
+The main objective of this project is to showcase my learning journey and accomplishments. I've implemented fundamental web development technologies and techniques, and this project serves as a testament to my progress.
 
-## My next step is to learn how to extract API and the backend.
+## Future Plans
+
+My next step in this learning journey is to delve into API integration and backend development. I am excited to expand my skills and explore the backend aspects of web development.
+
+Feel free to explore the project and provide any feedback or suggestions for improvement. Thank you for checking out my work! 😊
