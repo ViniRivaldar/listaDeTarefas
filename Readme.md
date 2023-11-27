@@ -1,5 +1,5 @@
 ## Chores
-#3️⃣ what's in this first project of mine
+# 3️⃣ what's in this first project of mine
 
 **HTML, CSS, JS**
 
