@@ -96,8 +96,13 @@ button,input[type="checkbox"]{
     accent-color: var(--green);
 }
 
-.task p{
-    flex: 1;
+.task textarea{
+    resize: none;
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    border: none;
+    border-radius: 10px;
+    padding: 8px; 
 }
 
 .delete-button{

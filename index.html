@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Lista de Tarefas</title>
-        <script src="./js/script.js" type="module" defer></script>
+        <script src="./js/script.js" defer></script>
         <link rel="stylesheet" href="./style.css">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,13 +17,13 @@
             <H1 class="todo-title">Lista de Tarefas ✍️</H1>
             <div class="todo-actions">
                 <p><strong>Hoje</strong>, dia <span class="today"></span></p>
-                <button class="create-button">+</button>
+                <button class="create-button" onclick="addTask()">+</button>
             </div>
             <ul class="todo-list">
                 <li class="task">
                     <input type="checkbox">
-                    <p>levar o doguinho para passear</p>
-                    <button class="delete-button"><i class="bi bi-trash3-fill"></i></button>
+                    <textarea name="" id="" cols="100" rows="2"></textarea>
+                    <button class="delete-button" onclick="deleteTask()"><i class="bi bi-trash3-fill"></i></button>
                 </li>
             </ul>
         </div>
